@@ -12,7 +12,7 @@ This serves the animation as a streaming HTTP response, so a Windows CMD/PowerSh
 ## Run from CMD
 
 ```cmd
-curl -N https://YOUR-SERVICE.onrender.com/ascii
+curl -N https://vijay-il4v.onrender.com/ascii
 ```
 
 Stop with `Ctrl+C`.
